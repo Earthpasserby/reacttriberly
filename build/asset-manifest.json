@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Earthpasserby/reacttriberly/static/css/main.04e04430.css",
+    "main.js": "/Earthpasserby/reacttriberly/static/js/main.acfa9c73.js",
+    "static/js/787.f2fafb6a.chunk.js": "/Earthpasserby/reacttriberly/static/js/787.f2fafb6a.chunk.js",
+    "index.html": "/Earthpasserby/reacttriberly/index.html",
+    "main.04e04430.css.map": "/Earthpasserby/reacttriberly/static/css/main.04e04430.css.map",
+    "main.acfa9c73.js.map": "/Earthpasserby/reacttriberly/static/js/main.acfa9c73.js.map",
+    "787.f2fafb6a.chunk.js.map": "/Earthpasserby/reacttriberly/static/js/787.f2fafb6a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04e04430.css",
+    "static/js/main.acfa9c73.js"
+  ]
+}
